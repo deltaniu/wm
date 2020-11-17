@@ -1,0 +1,14 @@
+{
+  "name": "wm",
+  "version": "1.0.0",
+  "main": "wm.js",
+  "repository": "git@github.com:cildhdi/wm.git",
+  "author": "cildhdi <miles_yang@foxmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
